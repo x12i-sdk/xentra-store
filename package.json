@@ -1,0 +1,22 @@
+{
+  "name": "xentra-store-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for @x12i/xentra-store: create and update an account in the in-memory store.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "@x12i/xentra-store": "0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/xentra-store.git"
+  },
+  "homepage": "https://www.npmjs.com/package/@x12i/xentra-store"
+}

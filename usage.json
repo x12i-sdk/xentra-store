@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/xentra-store",
+  "packageVersion": "0.2.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/xentra-store",
+  "usageRepository": "https://github.com/x12i-sdk/xentra-store",
+  "sourceRepository": "https://github.com/x12i/xentra",
+  "sourceCommit": "004372e6695509bf2e95d2e4e53d4534e81dd312",
+  "sourcePackageDirectory": "packages/store",
+  "example": {
+    "title": "Create and update an account in the in-memory store",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:38:14.221258+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "65daed55579a2f50cf3f3154daa719932a6160b053fce2e4ac9636110513d3b1",
+    "manifestSha256": "f37386147f0ed287ca7c7737d879e067a3647a848183f4046ded0a1d9c26e507"
+  }
+}
